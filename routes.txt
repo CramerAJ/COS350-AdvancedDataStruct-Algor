@@ -1,0 +1,18 @@
+A Bangor_Depot B EMMC C Veazie D UMaine_Union E Old_Town F Old_Town_Plaza G University_Mall H Orono_Research_Park I Mill_Street J Orchard_Trails K UMaine_Rec_Center
+Bangor_Depot 5 EMMC
+EMMC 10 Veazie
+Veazie 15 UMaine_Union
+UMaine_Union 10 Old_Town
+Old_Town 6 Old_Town_Plaza
+Old_Town_Plaza 9 University_Mall
+University_Mall 3 Orono_Research_Park
+Orono_Research_Park 10 Old_Town_Plaza
+Old_Town_Plaza 7 Old_Town
+Old_Town 15 UMaine_Union
+UMaine_Union 10 Veazie
+Veazie 10 EMMC
+EMMC 10 Bangor_Depot
+Mill_Street 9 Orchard_Trails 
+Orchard_Trails 6 UMaine_Rec_Center
+UMaine_Rec_Center 3 UMaine_Union
+UMaine_Union 8 Mill_Street

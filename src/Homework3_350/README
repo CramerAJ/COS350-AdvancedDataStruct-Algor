@@ -1,0 +1,21 @@
+READ ME
+
+Home Work 3:
+
+Sources:
+http://stackoverflow.com/questions/10477628/arraylist-of-int-array-in-java
+
+Used this site, since I was making some very dumb mistakes one night
+so just decided to find a solution.
+
+General Comments:
+
+My original approach to the task, was to have three nested for loops, that would pick up the first index
+assign it to a variable, then pick up the second and assign it to another variable, and then pick up the third
+index in the list. So there would be i, i+1, and i+2. It would then compare find a set of indexes, that when
+(i+1)-i == (i+2)-(i+1), it would store that pair into an ArrayList for integers. Yet having it already found and stored 
+later wouldn't really make much sense. So ended up just having it stored to an ArrayList<Strings>, and would then output
+using a for loop to output a string containing the three indexes that work. It finds all duplicates if the 
+indexes are the same value, but not the same positions.
+	
+	

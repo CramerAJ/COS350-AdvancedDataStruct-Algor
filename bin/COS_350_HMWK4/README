@@ -1,0 +1,26 @@
+README
+
+sources used:
+http://beginnersbook.com/2013/12/hashmap-in-java-with-example/
+https://docs.oracle.com/javase/7/docs/api/java/util/HashMap.html
+http://stackoverflow.com/questions/1055243/is-a-java-hashmap-really-o1
+http://www.java2blog.com/2014/02/how-hashmap-works-in-java.html
+http://www.algolist.net/Data_structures/Graph/Internal_representation
+
+The two classes, are two different approaches I had to the homework, after a few issues with my laptop
+having a new update on OSX installed,causing a few issues with the application eclipse. The first
+was my original attempt, using the written part of the homework psuedocode as a guide for what I need
+to have in my function. Was honestly not entirely sure as what was the main issue, whether I was 
+recalling the function incorrectly, or whether I was also not storing them properly.
+
+Which made me then switch to a hashmap. I wasn't very familiar with hashmaps, but tried my best to implement a version
+using the data structure. Asked a few students if they could send me some links to help me get started. 
+Although I was able to come up with something, I wasn't to sure on how to actually output the keys. I knew 
+of cases however for the hashmap, that there would be duplicate key/values, which would be pairs/edges in the map
+numerous times. Since each vertex is created with having all it's pairs, since it's an undirected graph.
+
+Would also like to come meet with you after this assignment, to talk about what my issues were in both 
+methods, as I had a pretty tough time understanding some of the issues I encountered debugging the 
+algorithms.
+
+FIXED IT,early this morning, may still have issues, on 4/1/16

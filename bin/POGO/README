@@ -1,0 +1,20 @@
+README HOMEWORK #2
+
+
+Sources Used:
+https://docs.oracle.com/javase/6/docs/api/java/lang/Math.html
+http://stackoverflow.com/questions/3935498/adding-values-in-a-for-loop
+http://www.tutorialspoint.com/java/number_parseint.htm
+http://www.tutorialspoint.com/java/java_overview.htm
+TEXTBOOK also, and looked at newsgroup for any comments.
+
+Comments: I made very minor changes when taking homework 1. Had several issues on trying to
+get the inputs to separate, so ended up just asking a few people in class as well as looked up
+a few different ways on Stack Overflow. I hope I didn't fully misunderstand the point of this assignment
+, but from what I thought we had to do was take the cost of the pogos and add them up, which I attempted, but 
+was unable to do so. I ended up making sure that it was at least able to separate the values of the 
+cost of the pogo when given the coins amount, and still being able to find the total cost of each
+combination. I also tried to find the minimum cost pattern to reach the goal, but since the 
+cost value for each itteration was the same as well as wasn't being added up correctly I eventually just gave up. 
+I did find a few different re attempts to try, but nothing seemed to really work.
+Tried my best on this, but really just couldn't find a way to have to coins add up.
